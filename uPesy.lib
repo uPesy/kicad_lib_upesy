@@ -50,7 +50,7 @@ ENDDEF
 DEF uPesy_ESP32_Wroom_Low_Power_DevKit U 0 40 Y Y 1 F N
 F0 "U" 0 1050 50 H V C CNN
 F1 "uPesy_ESP32_Wroom_Low_Power_DevKit" 0 -950 50 H V C CNN
-F2 "uPesy:uPesy_ESP32_Wroom_Low_Power_DevKit" -50 1050 50 H I C CNN
+F2 "uPesy_Boards:uPesy_ESP32_Wroom_Low_Power_DevKit" -50 1050 50 H I C CNN
 F3 "" -50 1050 50 H I C CNN
 DRAW
 S -450 950 500 -850 0 1 0 f
