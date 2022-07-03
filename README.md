@@ -19,19 +19,19 @@ Follow these instructions to keep the reference between symbols, footprints and 
 - In KiCad, Go to Preferences > Configure Paths, and add the environment variables `UPESY_BOARDS` with the path to the downloaded folder. For example, 
 
 <p align="center">
-  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/add_env_path_kicad.png" width="500">
+  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/add_env_path_kicad.PNG" width="500">
 </p>
 
 - Go to Preferences > Manage Symbol Libraries, and Add the global library `uPesy Boards` : `${UPESY_BOARDS}/uPesy.kicad_sym`
 
 <p align="center">
-  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/add_symbol_path.png" width="500">
+  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/add_symbol_path.PNG" width="500">
 </p>
 
 - Go to Preferences > Manage Footprint Libraries, and Add the global library `uPesy Boards` : `${UPESY_BOARDS}/uPesy.pretty`
 
 <p align="center">
-  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/add_footprint_path.png" width="500">
+  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/add_footprint_path.PNG" width="500">
 </p>
 
 > For KiCad v5, use `uPesy.lib` instead of `uPesy.kicad_sym`
