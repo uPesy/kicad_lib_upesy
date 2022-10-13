@@ -3,7 +3,7 @@
 This repo contains Kicad (**v5** and **v6**) libraries for [uPesy Boards](https://www.upesy.com/) with symbols, footprints and 3D models.
 
 <p align="center">
-  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/upesy_boards_3d_view.PNG" width="750">
+  <img src="https://github.com/uPesy/kicad_lib_upesy/raw/master/assets/doc/upesy_boards_3d_view.PNG" width="750">
 </p>
 
 ## 💾 Installation
